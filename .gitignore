@@ -1,3 +1,6 @@
 .DS_Store
 /.idea
 /.vscode
+
+states/
+*_trace_*
